@@ -24,7 +24,7 @@ Install paleoMap developing version from github
 ```coffee
 install.packages("devtools")
 library(devtools)
-install_github("NonaR/paleoMap")
+install_github("sonjaleo/paleoMap")
 library(paleoMap)
 ```
 
@@ -309,7 +309,7 @@ Returns the corrected latitudinal generic richness.
 
 ## Meta
 
-Please report any [issues or bugs](https://github.com/NonaR/paleoMap/issues).
+Please report any [issues or bugs](https://github.com/sonjaleo/paleoMap/issues).
 
 License: GPL-2
 
@@ -318,16 +318,16 @@ To cite package `paleoMap` in publications use:
 ```coffee
 To cite package `paleoMap` in publications use:
 
-Sonja Rothkugel, Sara Varela (2015). paleoMap:  An R-package for getting and using paleontoligcal maps. R package version xx. https://github.com/NonaR/paleoMap
+Sonja Leo, Sara Varela (2015). paleoMap:  An R-package for getting and using paleontoligcal maps. R package version xx. https://github.com/NonaR/paleoMap
 
 A BibTeX entry for LaTeX users is
 
   @Manual{,
     title = {paleoMap: An R-package for getting and using paleontoligcal maps},
-    author = {{Sonja Rothkugel} and {Sara Varela}},
+    author = {{Sonja Leo} and {Sara Varela}},
     year = {2015},
     note = {R package version xx},
-    base = {https://github.com/NonaR/paleoMap},
+    base = {https://github.com/sonjaleo/paleoMap},
   }
 ```
 
